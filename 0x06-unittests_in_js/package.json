@@ -2,7 +2,7 @@
   "name": "unittests_in_js",
   "version": "1.0.0",
   "description": "A project for learning the basics of unittests in Node.js.",
-  "author": "Bezaleel Olakunori <bezaleeloci@gmail.com>",
+  "author": "Abdellah syani <syaniabdos@gmail.com>",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -31,12 +31,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/B3zaleel/alx-backend-javascript"
+    "url": "https://github.com/Abdellahsyani/alx-backend-javascript"
   },
   "bugs": {
-    "url": "https://github.com/B3zaleel/alx-backend-javascript/issues"
+    "url": "https://github.com/Abdellahsyani/alx-backend-javascript/issues"
   },
-  "homepage": "https://github.com/B3zaleel/alx-backend-javascript/blob/main/0x06-unittests_in_js/README.md",
+  "homepage": "https://github.com/Abdellahsyani/alx-backend-javascript/blob/master/README.md",
   "engines": {
     "node": "16.x",
     "npm": "8.x",
