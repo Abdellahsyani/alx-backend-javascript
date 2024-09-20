@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple API for learning basic integration testing in NodeJS.",
   "main": "api.js",
-  "author": "abdellah syani <syaniabdos@gmail.com>",
+  "author": "Abdellah syani <syaniabdos@gmail.com>",
   "private": true,
   "license": "MIT",
   "scripts": {
